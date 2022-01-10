@@ -17,7 +17,7 @@ Objectif for next week (17/01/2022
 Data préprocessing such as checking of doublons, missing data, normalisation (if needed)...
 
 Missing data : 
-remplacer missing data par quelque chose...
+remplacer missing data par quelque chose（previous valid value...）
 Il faut faire attention que les currencies n'ont pas la même taille de données.
 
 Some descriptive stat studies. par devise
