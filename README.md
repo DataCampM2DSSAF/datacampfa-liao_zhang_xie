@@ -11,6 +11,7 @@ Authors : Liao, Zhang, Xie
 Import data and familarize with data
 Understang the subject : predict log return of crypto currucies
 Tools me may use : time series : ARMA, ARCH, GARCH.
+Read and understand the tutorial to the G-Research Crypto Competition. 
 
 
 Objectif for next week (17/01/2022 
